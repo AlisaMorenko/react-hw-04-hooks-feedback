@@ -1,0 +1,11 @@
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 100px;
+  margin-right: auto;
+  justify-content: center;
+}
+
+.title {
+  font-size: 36px;
+}
